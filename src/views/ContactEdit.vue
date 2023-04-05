@@ -55,6 +55,6 @@
         created() {
             this.getContact(this.id);
             this.message = "";
-        },
+        }
     };
 </script>
