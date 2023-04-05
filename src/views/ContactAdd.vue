@@ -34,6 +34,6 @@
         },
         created() {
             this.message = "";
-        },
+        }
     };
 </script>
